@@ -1,0 +1,1 @@
+占位：前端构建产物由 Dockerfile 从 frontend/dist 拷入覆盖。
